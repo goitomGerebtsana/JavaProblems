@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goitomGerebtsana
+- 👋 Hi, I’m @goitom
 - 👀 I’m interested in learning java and Python  
 - 🌱 I’m currently learning Java and Node.js
 - 💞️ I’m looking to collaborate on Asp.net Mvc and MERN Stack projects
