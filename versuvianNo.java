@@ -1,4 +1,3 @@
-import java.security.cert.TrustAnchor;
 
 class versuvian{
 
@@ -19,9 +18,7 @@ class versuvian{
             if (isSquare(first) & isSquare(second)){
                 pairCount++;
             }
-            else{
-                pairCount=pairCount;
-            }
+           
         }
 
     if(pairCount>=2){

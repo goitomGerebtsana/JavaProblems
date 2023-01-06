@@ -12,13 +12,11 @@ public class BalancedArray {
     static int[] d = { 16, 6, 2, 3 };
 
     static int isBalanced(int[] a) {
-
         for (int i = 0; i < a.length; i++) {
             if (i % 2 == 0 && a[i] % 2 != 0)
                 return 0;
             if  (i % 2 != 0 && a[i]%2 == 0)
                 return 0;
-
         }
         return 1;
     }
