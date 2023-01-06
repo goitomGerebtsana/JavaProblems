@@ -16,7 +16,7 @@ Examples of arrays that are not complete are:
 {2, 6, 3, 4} condition (e) does not hold (5 is missing)
 Write a function named isComplete that returns 1 if its array argument is a complete array. Otherwise 
 it returns 0.
-*/s
+*/
 
 
 public class CompleteArray {
